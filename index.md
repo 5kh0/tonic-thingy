@@ -1,4 +1,7 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# Midnight-Blue
+
+*Midnight-Blue* is a calming, simple Jekyll theme with dark blue colors
